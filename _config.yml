@@ -21,12 +21,12 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 6
+  limit: 7
   exclude:
     archived: false
     forks: false
     projects:
-    # - repo-name
+    - progfay.github.io
 
 social_media:
   # behance: your_username
